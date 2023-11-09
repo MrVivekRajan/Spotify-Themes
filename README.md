@@ -5,7 +5,7 @@ Here you will find some coloured themes for Spotify
 It Works perfectly with Spicetify
 
 # Installation!!
-1. Just clone or Download the theme from above the repository section
+1. Just clone or Download the theme from the above repository section
 2. [Then just follow the spicetify installtion guide](https://spicetify.app/docs/getting-started/)
 
 # Preview
