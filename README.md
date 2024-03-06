@@ -9,6 +9,10 @@ It Works perfectly with Spicetify
 2. [Then just follow the spicetify installtion guide](https://spicetify.app/docs/getting-started/)
 
 # Preview
+
+# Stylish
+![240306_18h58m33s_screenshot](https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/36fdda9c-bccc-4a4e-9a68-1cc3f182dd47)
+
 # Gruvminimal
 ![240118_19h50m31s_screenshot](https://github.com/developer-vivek/Spotify-Themes/assets/85994908/ada1b9ed-62f0-4e19-9e3e-a1ece901acaa)
 
