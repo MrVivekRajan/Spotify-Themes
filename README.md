@@ -14,7 +14,7 @@ It Works perfectly with Spicetify
 ![240306_18h58m33s_screenshot](https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/36fdda9c-bccc-4a4e-9a68-1cc3f182dd47)
 
 # Gruvminimal
-![240118_19h50m31s_screenshot](https://github.com/developer-vivek/Spotify-Themes/assets/85994908/ada1b9ed-62f0-4e19-9e3e-a1ece901acaa)
+![Gruvminimal-Spotify](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/b514d56a-e312-4753-a6d9-307b09b2c48b)
 
 # Green
 ![green-s](https://github.com/developer-vivek/Spotify-Themes/assets/85994908/1c861bea-b063-4fc4-a545-61dee52bc097)
