@@ -11,7 +11,7 @@ It Works perfectly with Spicetify
 # Preview
 
 # Minimal 
-https://github.com/MrVivekRajan/Spotify-Themes/assets/85994908/ce0a89d7-e6be-4c81-90d7-0647e4092e81
+![240417_16h30m02s_screenshot](https://github.com/MrVivekRajan/Spotify-Themes/assets/85994908/ce0a89d7-e6be-4c81-90d7-0647e4092e81)
 
 # Stylish
 ![240306_18h58m33s_screenshot](https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/36fdda9c-bccc-4a4e-9a68-1cc3f182dd47)
