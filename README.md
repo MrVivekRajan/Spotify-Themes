@@ -13,6 +13,9 @@ It Works perfectly with Spicetify
 # Dark-Mode
 ![Spotify](https://github.com/MrVivekRajan/Spotify-Themes/assets/85994908/bd0d3579-f847-4934-9ab7-74d90392e3c1)
 
+# Nordic
+![240713_09h58m33s_screenshot](https://github.com/user-attachments/assets/cab87a25-1690-4eec-8b83-e750535bdfba)
+
 # Minimal 
 ![240417_16h30m02s_screenshot](https://github.com/MrVivekRajan/Spotify-Themes/assets/85994908/ce0a89d7-e6be-4c81-90d7-0647e4092e81)
 
