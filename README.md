@@ -10,6 +10,9 @@ It Works perfectly with Spicetify
 
 # Preview
 
+# Golden-Hour
+![240928_10h40m45s_screenshot](https://github.com/user-attachments/assets/70926494-b2dc-4fe0-ae9f-6623f9432981)
+
 # Dark-Mode
 ![Spotify](https://github.com/MrVivekRajan/Spotify-Themes/assets/85994908/bd0d3579-f847-4934-9ab7-74d90392e3c1)
 
